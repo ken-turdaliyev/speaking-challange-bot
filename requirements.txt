@@ -1,2 +1,4 @@
 aiogram==3.4.1
-python-dotenv
+pydantic==2.5.3
+pydantic-core==2.14.6
+typing-extensions==4.12.2
