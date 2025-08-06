@@ -1,0 +1,44 @@
+{
+  "7094043761": {
+    "referrals": 0,
+    "got_reward": false,
+    "invited_by": 5819351322,
+    "credited": false,
+    "is_subscribed": true
+  },
+  "5749521840": {
+    "referrals": 2,
+    "got_reward": true,
+    "invited_by": 5819351322,
+    "credited": true,
+    "is_subscribed": true
+  },
+  "5819351322": {
+    "referrals": 1,
+    "got_reward": false,
+    "invited_by": 2146091054,
+    "credited": true,
+    "is_subscribed": true
+  },
+  "2146091054": {
+    "referrals": 1,
+    "got_reward": false,
+    "invited_by": 5819351322,
+    "credited": false,
+    "is_subscribed": true
+  },
+  "5830439135": {
+    "referrals": 0,
+    "got_reward": false,
+    "invited_by": 5749521840,
+    "credited": true,
+    "is_subscribed": true
+  },
+  "7015209261": {
+    "referrals": 0,
+    "got_reward": false,
+    "invited_by": 5749521840,
+    "credited": true,
+    "is_subscribed": true
+  }
+}
